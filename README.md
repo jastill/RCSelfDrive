@@ -7,7 +7,7 @@ Start simple and then look to incorporate, indoor nav, vision, lidar or any tech
 
 ## Simple start
 
-After buying a GL Racing chassis, the immediate challenge is it's size. So let's start with something a little larger, an old and non functional Losi Mini-T.
+After buying a GL Racing chassis, the immediate challenge is it's size. So let's start with something a little larger, an old and non functional [Losi Mini-T](LosiMiniT/README.md).
 
 
 ## Marvelmind
